@@ -1,0 +1,24 @@
+Práctica realizada por Miguel López Campos - Alumno de Metaheurísticas
+
+
+NOTA: NO EXPLICADO EN EL PDF
+LA SEMILLA LA 'PLANTO' EN CADA ITERACIÓN DEL BUCLE FOR
+EN EL CUAL REALIZO LAS EJECUCIONES DE LOS ALGORITMOS (EL FOR DONDE REALIZO EL EXPERIMENTO). LA PRIMERA
+VEZ VALDRÁ 1, LA SEGUNDA 2,... ASÍ HASTA 5 (LAS ITERACIONES DEL FOR)
+
+Para compilar cada uno de los ejecutables con los que comprobaremos los algoritmos:
+
+Para SFS:
+	comando 'make SFS'. El ejecutable estará en bin llamado SFS
+
+Para AM1:
+	comando 'make AM1'. El ejecutable estará en bin llamado AM1.
+
+Para AM2:
+	comando 'make AM2'. El ejecutable estará en bin llamado AM2.
+
+	Para AM3:
+	comando 'make AM3'. El ejecutable estará en bin llamado AM3.
+
+Para 3NN:
+	comando 'make 3NN'. El ejecutable estará en bin llamado 3NN.

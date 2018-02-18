@@ -1,0 +1,22 @@
+
+
+movement libras: 
+
+180 180
+Tiempo 1: 190.91
+El porcentaje de reducción 1: 47.7778
+El porcentaje de tasa_clas 1: 68.3333
+Tiempo 2: 188.15
+El porcentaje de reducción 2: 17.7778
+El porcentaje de tasa_clas 2: 77.2222
+180 180
+Tiempo 3: 192.74
+El porcentaje de reducción 3: 51.1111
+El porcentaje de tasa_clas 3: 68.3333
+Tiempo 4: 189.85
+El porcentaje de reducción 4: 64.4444
+El porcentaje de tasa_clas 4: 75
+180 180
+Tiempo 5: 189.77
+El porcentaje de reducción 5: 6.66667
+El porcentaje de tasa_clas 5: 72.7778

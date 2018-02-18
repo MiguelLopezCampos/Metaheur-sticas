@@ -1,0 +1,77 @@
+
+
+Wdbc
+
+Tiempo 1: 0.01
+El porcentaje de tasa_clas 1: 96.4912
+Tiempo 2: 0.02
+El porcentaje de tasa_clas 2: 96.4789
+Tiempo 3: 0.01
+El porcentaje de tasa_clas 3: 97.193
+Tiempo 4: 0.02
+El porcentaje de tasa_clas 4: 96.4789
+Tiempo 5: 0.01
+El porcentaje de tasa_clas 5: 95.0877
+Tiempo 6: 0.01
+El porcentaje de tasa_clas 6: 96.4789
+Tiempo 7: 0.02
+El porcentaje de tasa_clas 7: 96.1404
+Tiempo 8: 0.01
+El porcentaje de tasa_clas 8: 96.1268
+Tiempo 9: 0.02
+El porcentaje de tasa_clas 9: 94.7368
+Tiempo 10: 0.01
+El porcentaje de tasa_clas 10: 97.8873
+
+
+Movement_libras
+
+180 180
+Tiempo 1: 0.02
+El porcentaje de tasa_clas 1: 66.1111
+Tiempo 2: 0.01
+El porcentaje de tasa_clas 2: 77.7778
+180 180
+Tiempo 3: 0.01
+El porcentaje de tasa_clas 3: 70.5556
+Tiempo 4: 0.02
+El porcentaje de tasa_clas 4: 76.1111
+180 180
+Tiempo 5: 0.01
+El porcentaje de tasa_clas 5: 72.7778
+Tiempo 6: 0.01
+El porcentaje de tasa_clas 6: 79.4444
+180 180
+Tiempo 7: 0.01
+El porcentaje de tasa_clas 7: 68.8889
+Tiempo 8: 0.02
+El porcentaje de tasa_clas 8: 71.6667
+180 180
+Tiempo 9: 0.01
+El porcentaje de tasa_clas 9: 76.6667
+Tiempo 10: 0.01
+El porcentaje de tasa_clas 10: 75
+
+
+Arrhythmia
+
+Tiempo 1: 0.04
+El porcentaje de tasa_clas 1: 62.6943
+Tiempo 2: 0.03
+El porcentaje de tasa_clas 2: 62.6943
+Tiempo 3: 0.04
+El porcentaje de tasa_clas 2: 65.285
+Tiempo 4: 0.03
+El porcentaje de tasa_clas 4: 62.1762
+Tiempo 5: 0.03
+El porcentaje de tasa_clas 3: 65.8031
+Tiempo 6: 0.04
+El porcentaje de tasa_clas 6: 65.285
+Tiempo 7: 0.04
+El porcentaje de tasa_clas 4: 64.2487
+Tiempo 8: 0.03
+El porcentaje de tasa_clas 8: 63.2124
+Tiempo 9: 0.04
+El porcentaje de tasa_clas 5: 62.1762
+Tiempo 10: 0.04
+El porcentaje de tasa_clas 10: 64.7668

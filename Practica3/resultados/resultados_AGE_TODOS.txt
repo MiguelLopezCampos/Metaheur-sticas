@@ -1,0 +1,117 @@
+
+
+WDBC
+
+Tiempo 1: 218.08
+
+El porcentaje de reducción 1: 56.6667
+El porcentaje de tasa_clas 1: 94.386
+Tiempo 2: 220.15
+El porcentaje de reducción 2: 23.3333
+El porcentaje de tasa_clas 2: 95.4225
+Tiempo 3: 221.27
+
+El porcentaje de reducción 3: 30
+El porcentaje de tasa_clas 2: 95.0877
+Tiempo 4: 228.11
+El porcentaje de reducción 4: 26.6667
+El porcentaje de tasa_clas 4: 96.4789
+Tiempo 5: 228.05
+
+El porcentaje de reducción 5: 20
+El porcentaje de tasa_clas 3: 95.0877
+Tiempo 6: 242.38
+El porcentaje de reducción 6: 10
+El porcentaje de tasa_clas 6: 96.1268
+Tiempo 7: 263.09
+
+El porcentaje de reducción 7: 36.6667
+El porcentaje de tasa_clas 4: 96.8421
+Tiempo 8: 227.35
+El porcentaje de reducción 8: 20
+El porcentaje de tasa_clas 8: 96.1268
+Tiempo 9: 247.07
+
+El porcentaje de reducción 9: 26.6667
+El porcentaje de tasa_clas 5: 94.0351
+Tiempo 10: 225.7
+El porcentaje de reducción 10: 33.3333
+El porcentaje de tasa_clas 10: 96.4789
+
+
+movement libras: 
+
+180 180
+Tiempo 1: 210.16
+El porcentaje de reducción 1: 14.4444
+El porcentaje de tasa_clas 1: 67.7778
+Tiempo 2: 210.85
+El porcentaje de reducción 2: 16.6667
+El porcentaje de tasa_clas 2: 77.7778
+180 180
+Tiempo 3: 212.71
+El porcentaje de reducción 3: 17.7778
+El porcentaje de tasa_clas 3: 68.8889
+Tiempo 4: 210.08
+El porcentaje de reducción 4: 21.1111
+El porcentaje de tasa_clas 4: 76.6667
+180 180
+Tiempo 5: 210.64
+El porcentaje de reducción 5: 66.6667
+El porcentaje de tasa_clas 5: 76.6667
+Tiempo 6: 206.6
+El porcentaje de reducción 6: 48.8889
+El porcentaje de tasa_clas 6: 77.7778
+180 180
+Tiempo 7: 206.44
+El porcentaje de reducción 7: 36.6667
+El porcentaje de tasa_clas 7: 68.3333
+Tiempo 8: 206.61
+El porcentaje de reducción 8: 4.44444
+El porcentaje de tasa_clas 8: 72.7778
+180 180
+Tiempo 9: 206.11
+El porcentaje de reducción 9: 43.3333
+El porcentaje de tasa_clas 9: 77.7778
+Tiempo 10: 206.52
+El porcentaje de reducción 10: 42.2222
+El porcentaje de tasa_clas 10: 72.7778
+
+
+Arrhythmia
+
+Tiempo 1: 586.8
+El porcentaje de reducción 1: 64.7482
+El porcentaje de tasa_clas 1: 65.285
+hola 
+Tiempo 2: 585.25
+El porcentaje de reducción 2: 37.7698
+El porcentaje de tasa_clas 2: 60.6218
+Tiempo 3: 574.14
+El porcentaje de reducción 3: 76.9784
+El porcentaje de tasa_clas 2: 65.285
+hola 
+Tiempo 4: 574.54
+El porcentaje de reducción 4: 55.3957
+El porcentaje de tasa_clas 4: 63.7306
+Tiempo 5: 575.55
+El porcentaje de reducción 5: 80.5755
+El porcentaje de tasa_clas 3: 66.8394
+hola 
+Tiempo 6: 576.48
+El porcentaje de reducción 6: 80.2158
+El porcentaje de tasa_clas 6: 62.1762
+Tiempo 7: 575.74
+El porcentaje de reducción 7: 83.4532
+El porcentaje de tasa_clas 4: 63.7306
+hola 
+Tiempo 8: 576.17
+El porcentaje de reducción 8: 73.3813
+El porcentaje de tasa_clas 8: 64.2487
+Tiempo 9: 575.92
+El porcentaje de reducción 9: 70.8633
+El porcentaje de tasa_clas 5: 64.7668
+hola 
+Tiempo 10: 576.4
+El porcentaje de reducción 10: 75.5396
+El porcentaje de tasa_clas 10: 65.285

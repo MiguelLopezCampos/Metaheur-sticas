@@ -1,0 +1,8 @@
+\select@language {spanish}
+\contentsline {section}{\numberline {1}Descripci\IeC {\'o}n del problema}{3}
+\contentsline {section}{\numberline {2}Descripci\IeC {\'o}n de los aspectos comunes de los algoritmos}{4}
+\contentsline {section}{\numberline {3}Algoritmo de comparaci\IeC {\'o}n SFS}{6}
+\contentsline {section}{\numberline {4}Algoritmo gen\IeC {\'e}tico generacional}{7}
+\contentsline {section}{\numberline {5}Algoritmo gen\IeC {\'e}tico estacionario}{11}
+\contentsline {section}{\numberline {6}Aspectos t\IeC {\'e}cnicos de la pr\IeC {\'a}ctica}{14}
+\contentsline {section}{\numberline {7}Experimentos y an\IeC {\'a}lisis}{14}

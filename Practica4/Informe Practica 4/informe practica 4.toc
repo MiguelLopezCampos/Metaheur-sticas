@@ -1,0 +1,9 @@
+\select@language {spanish}
+\contentsline {section}{\numberline {1}Descripci\IeC {\'o}n del problema}{3}
+\contentsline {section}{\numberline {2}Descripci\IeC {\'o}n de los aspectos comunes de los algoritmos}{4}
+\contentsline {section}{\numberline {3}Algoritmo de comparaci\IeC {\'o}n SFS}{6}
+\contentsline {section}{\numberline {4}Funci\IeC {\'o}n heur\IeC {\'\i }stica y rastros de feromona}{7}
+\contentsline {section}{\numberline {5}Algoritmos basados en colonias de hormigas}{9}
+\contentsline {subsection}{\numberline {5.1}SCHBL}{10}
+\contentsline {subsection}{\numberline {5.2}SHMMBL}{16}
+\contentsline {section}{\numberline {6}Experimentos y an\IeC {\'a}lisis}{21}

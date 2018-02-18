@@ -1,0 +1,10 @@
+\select@language {spanish}
+\contentsline {section}{\numberline {1}Descripci\IeC {\'o}n del problema}{3}
+\contentsline {section}{\numberline {2}Descripci\IeC {\'o}n de los aspectos comunes de los algoritmos}{4}
+\contentsline {section}{\numberline {3}Algoritmo de comparaci\IeC {\'o}n SFS}{6}
+\contentsline {section}{\numberline {4}Algoritmo de b\IeC {\'u}squeda local}{7}
+\contentsline {section}{\numberline {5}B\IeC {\'u}squeda multiarranque b\IeC {\'a}sica}{9}
+\contentsline {section}{\numberline {6}Algoritmo GRASP}{9}
+\contentsline {section}{\numberline {7}B\IeC {\'u}squeda local iterativa (ILS)}{12}
+\contentsline {section}{\numberline {8}Aspectos t\IeC {\'e}cnicos de la pr\IeC {\'a}ctica}{13}
+\contentsline {section}{\numberline {9}Experimentos y an\IeC {\'a}lisis}{14}

@@ -1,0 +1,14 @@
+SFS: ./include/timer.h ./include/random_ppio.h ./src/SFS.cpp ./src/timer.c ./src/random_ppio.c
+	g++ -o ./bin/SFS ./src/timer.c ./src/random_ppio.c ./src/SFS.cpp -I ./include
+
+LS: ./include/timer.h ./include/random_ppio.h ./src/LS.cpp ./src/timer.c ./src/random_ppio.c
+	g++ -o ./bin/LS ./src/LS.cpp ./src/random_ppio.c ./src/timer.c -I ./include
+
+TS: ./include/timer.h ./include/random_ppio.h ./src/TS.cpp ./src/timer.c ./src/random_ppio.c
+	g++ -o ./bin/TS ./src/TS.cpp ./src/random_ppio.c ./src/timer.c -I ./include
+
+SA: ./include/timer.h ./include/random_ppio.h ./src/SA.cpp ./src/timer.c ./src/random_ppio.c
+	g++ -o ./bin/SA ./src/SA.cpp ./src/random_ppio.c ./src/timer.c -I ./include
+
+3NN: ./include/timer.h ./include/random_ppio.h ./src/3NN.cpp ./src/timer.c ./src/random_ppio.c
+	g++ -o ./bin/3NN ./src/3NN.cpp ./src/random_ppio.c ./src/timer.c -I ./include

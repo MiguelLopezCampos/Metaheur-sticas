@@ -1,0 +1,39 @@
+
+
+WDBC
+
+Tiempo 1: 23.52
+
+El porcentaje de reducción 1: 73.3333
+El porcentaje de tasa_clas 1: 96.8421
+Tiempo 2: 22.19
+El porcentaje de reducción 2: 70
+El porcentaje de tasa_clas 2: 95.7747
+Tiempo 3: 22.7
+
+El porcentaje de reducción 3: 63.3333
+El porcentaje de tasa_clas 2: 96.4912
+Tiempo 4: 26.59
+El porcentaje de reducción 4: 63.3333
+El porcentaje de tasa_clas 4: 94.3662
+Tiempo 5: 22.37
+
+El porcentaje de reducción 5: 60
+El porcentaje de tasa_clas 3: 95.7895
+Tiempo 6: 25.41
+El porcentaje de reducción 6: 76.6667
+El porcentaje de tasa_clas 6: 96.1268
+Tiempo 7: 24.59
+
+El porcentaje de reducción 7: 80
+El porcentaje de tasa_clas 4: 96.1404
+Tiempo 8: 23.43
+El porcentaje de reducción 8: 33.3333
+El porcentaje de tasa_clas 8: 95.7747
+Tiempo 9: 21.56
+
+El porcentaje de reducción 9: 80
+El porcentaje de tasa_clas 5: 95.4386
+Tiempo 10: 23.85
+El porcentaje de reducción 10: 70
+El porcentaje de tasa_clas 10: 96.831

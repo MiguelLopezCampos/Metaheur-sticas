@@ -1,0 +1,18 @@
+Práctica realizada por Miguel López Campos - Alumno de Metaheurísticas
+
+Para compilar cada uno de los ejecutables con los que comprobaremos los algoritmos:
+
+Para SFS:
+	comando 'make SFS'. El ejecutable estará en bin llamado SFS
+
+Para búsqueda local:
+	comando 'make LS'. El ejecutable estará en bin llamado LS.
+
+Para enfriamiento simulado:
+	comando 'make SA'. El ejecutable estará en bin llamado SA.
+
+Para búsqueda tabú:
+	comando 'make TS'. El ejecutable estará en bin llamado TS.
+
+Para 3NN:
+	comando 'make 3NN'. El ejecutable estará en bin llamado 3NN.

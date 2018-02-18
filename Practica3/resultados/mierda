@@ -1,0 +1,49 @@
+
+
+WDBC
+
+Tiempo 1: 22.66
+La máscara es: 
+1 0 1 1 1 0 0 0 1 0 0 1 1 1 0 0 1 1 0 0 1 1 1 0 1 0 0 1 0 0 
+El porcentaje de reducción 1: 50
+El porcentaje de tasa_clas 1: 90.8772
+La máscara es: 
+1 1 0 0 0 1 0 1 1 1 0 1 0 0 0 1 0 0 0 0 0 0 1 1 1 0 1 1 1 1 Tiempo 2: 24.25
+El porcentaje de reducción 2: 50
+El porcentaje de tasa_clas 2: 87.6761
+Tiempo 3: 23.32
+La máscara es: 
+0 1 1 1 0 1 0 1 1 0 1 0 0 0 0 1 1 1 1 0 0 1 1 1 0 1 1 0 0 0 
+El porcentaje de reducción 3: 46.6667
+El porcentaje de tasa_clas 2: 90.1754
+La máscara es: 
+0 0 0 0 1 0 0 0 0 0 0 1 0 0 1 1 0 1 1 1 0 1 1 1 0 1 0 1 1 1 Tiempo 4: 22.14
+El porcentaje de reducción 4: 53.3333
+El porcentaje de tasa_clas 4: 88.0282
+Tiempo 5: 22.49
+La máscara es: 
+1 1 1 0 1 0 0 1 0 0 1 0 1 1 1 1 1 1 0 0 1 1 1 1 0 0 1 0 0 0 
+El porcentaje de reducción 5: 43.3333
+El porcentaje de tasa_clas 3: 88.0702
+La máscara es: 
+1 0 1 0 1 1 1 1 0 0 1 0 1 1 0 1 1 0 1 1 1 1 1 1 1 1 0 0 1 0 Tiempo 6: 25.82
+El porcentaje de reducción 6: 33.3333
+El porcentaje de tasa_clas 6: 89.4366
+Tiempo 7: 24.81
+La máscara es: 
+0 0 0 0 0 1 0 1 0 1 0 1 1 1 1 0 0 1 1 1 0 0 1 1 1 1 0 0 0 0 
+El porcentaje de reducción 7: 53.3333
+El porcentaje de tasa_clas 4: 90.1754
+La máscara es: 
+0 1 0 0 0 0 1 1 0 0 0 1 0 1 1 1 1 0 0 0 1 1 1 0 0 0 1 1 1 1 Tiempo 8: 22
+El porcentaje de reducción 8: 50
+El porcentaje de tasa_clas 8: 89.4366
+Tiempo 9: 23.68
+La máscara es: 
+0 1 0 0 0 1 0 1 0 1 1 1 1 0 0 0 0 0 0 0 1 1 1 0 1 0 1 1 0 0 
+El porcentaje de reducción 9: 56.6667
+El porcentaje de tasa_clas 5: 91.2281
+La máscara es: 
+0 0 0 0 1 0 1 1 1 0 1 1 1 1 0 1 1 0 0 0 1 0 1 1 0 0 1 1 0 1 Tiempo 10: 22.78
+El porcentaje de reducción 10: 46.6667
+El porcentaje de tasa_clas 10: 88.7324

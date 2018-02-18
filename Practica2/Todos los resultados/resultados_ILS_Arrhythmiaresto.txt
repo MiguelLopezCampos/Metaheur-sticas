@@ -1,0 +1,25 @@
+
+
+Arrhythmia
+
+Tiempo 5: 312.41
+El porcentaje de reducción 5: 94.964
+El porcentaje de tasa_clas 3: 70.9845
+hola 
+Tiempo 6: 286.06
+El porcentaje de reducción 6: 91.7266
+El porcentaje de tasa_clas 6: 70.4663
+Tiempo 7: 287.26
+El porcentaje de reducción 7: 97.8417
+El porcentaje de tasa_clas 4: 69.9482
+hola 
+Tiempo 8: 279.29
+El porcentaje de reducción 8: 18.705
+El porcentaje de tasa_clas 8: 60.6218
+Tiempo 9: 304.83
+El porcentaje de reducción 9: 94.6043
+El porcentaje de tasa_clas 5: 64.2487
+hola 
+Tiempo 10: 299.13
+El porcentaje de reducción 10: 92.446
+El porcentaje de tasa_clas 10: 68.3938

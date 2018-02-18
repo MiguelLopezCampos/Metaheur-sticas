@@ -1,0 +1,57 @@
+
+
+WDBC
+
+Tiempo 1: 229.34
+
+El porcentaje de reducción 1: 23.3333
+El porcentaje de tasa_clas 1: 97.193
+Tiempo 2: 235.23
+El porcentaje de reducción 2: 23.3333
+El porcentaje de tasa_clas 2: 95.4225
+Tiempo 3: 232.09
+
+El porcentaje de reducción 3: 30
+El porcentaje de tasa_clas 2: 96.1404
+Tiempo 4: 232.78
+El porcentaje de reducción 4: 23.3333
+El porcentaje de tasa_clas 4: 96.4789
+Tiempo 5: 229.34
+
+El porcentaje de reducción 5: 10
+El porcentaje de tasa_clas 3: 95.7895
+Tiempo 6: 232.49
+El porcentaje de reducción 6: 10
+El porcentaje de tasa_clas 6: 96.831
+Tiempo 7: 232.65
+
+El porcentaje de reducción 7: 16.6667
+El porcentaje de tasa_clas 4: 96.4912
+Tiempo 8: 240.63
+El porcentaje de reducción 8: 20
+El porcentaje de tasa_clas 8: 95.4225
+Tiempo 9: 239.38
+
+El porcentaje de reducción 9: 26.6667
+El porcentaje de tasa_clas 5: 94.0351
+Tiempo 10: 230.43
+El porcentaje de reducción 10: 16.6667
+El porcentaje de tasa_clas 10: 97.5352
+
+
+movement libras: 
+
+180 180
+Tiempo 1: 205.55
+El porcentaje de reducción 1: 17.7778
+El porcentaje de tasa_clas 1: 71.1111
+Tiempo 2: 211.23
+El porcentaje de reducción 2: 26.6667
+El porcentaje de tasa_clas 2: 76.1111
+180 180
+Tiempo 3: 213.93
+El porcentaje de reducción 3: 15.5556
+El porcentaje de tasa_clas 3: 68.8889
+Tiempo 4: 211.06
+El porcentaje de reducción 4: 27.7778
+El porcentaje de tasa_clas 4: 76.1111
